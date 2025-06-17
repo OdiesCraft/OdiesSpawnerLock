@@ -1,0 +1,6 @@
+name: OdiesSpawnerLock
+main: org.example.OdiesSpawnerLock.OdiesSpawnerLock
+version: 1.0
+author: Sporky
+api-version: 1.20
+softdepend: [SilkSpawners, SpawnerMeta, CMI]

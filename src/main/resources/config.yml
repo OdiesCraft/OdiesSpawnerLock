@@ -1,0 +1,4 @@
+messages:
+  spawner_locked: "&aSpawner koyuldu ve kilitlendi. Sadece sen kırabilirsin!"
+  not_owner: "&cBu spawner sana ait değil!"
+  spawner_owner: "&eBu spawner &b%player%&e'a ait."
